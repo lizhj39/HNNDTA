@@ -1,0 +1,10 @@
+﻿drug_encoding,target_encoding
+Morgan,AAC
+Morgan,PseudoAAC
+Morgan,Conjoint_triad
+Morgan,Quasi-seq
+Morgan,CNN
+Morgan,GRU
+Morgan,LSTM
+Morgan,Transformer
+Morgan,ESPF

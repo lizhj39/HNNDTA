@@ -1,0 +1,14 @@
+﻿drug_encoding,target_encoding
+Morgan,AAC
+Daylight,AAC
+Pubchem,AAC
+rdkit_2d_normalized,AAC
+CNN,AAC
+GRU,AAC
+LSTM,AAC
+MPNN,AAC
+Transformer,AAC
+ESPF,AAC
+ErG,AAC
+DGL_GCN,AAC
+DGL_NeuralFP,AAC
