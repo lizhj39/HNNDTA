@@ -137,7 +137,6 @@ pretrain_path = f"saved_models/saved_models_pre"
 
 
 # 先用所有数据预训练
-# 为了刷好的结果，推荐shuffle_data_file先设置True(打乱txt文件)，刷到好结果就设置为False
 train([data_path_S1R, data_path_DRD2, data_path_BIP], model_candidate_target, shuffle_data_file=False,
       pretrain_path=None, save_model=True, label_text="_pre")
 
