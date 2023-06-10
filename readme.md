@@ -1,5 +1,3 @@
-# 3DGT-DDI
-
 ## file list
 
 - data_preprocess_multi_condi.py：Preprocessing operations were performed on the raw data from ChEMBL.
